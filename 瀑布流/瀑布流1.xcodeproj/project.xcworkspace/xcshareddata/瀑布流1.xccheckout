@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75959BFE-584E-4B0F-90ED-CAFDE97156E5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>瀑布流1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6D481ED84896C2111533FADBFE7B75862A93E555</key>
+		<string>https://github.com/XQBoy/waterfallsFlow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>瀑布流/瀑布流1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6D481ED84896C2111533FADBFE7B75862A93E555</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XQBoy/waterfallsFlow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6D481ED84896C2111533FADBFE7B75862A93E555</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6D481ED84896C2111533FADBFE7B75862A93E555</string>
+			<key>IDESourceControlWCCName</key>
+			<string>waterfallsFlow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
